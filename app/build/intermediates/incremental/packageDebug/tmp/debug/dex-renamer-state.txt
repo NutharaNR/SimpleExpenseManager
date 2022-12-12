@@ -1,0 +1,4 @@
+#Mon Dec 12 18:56:56 IST 2022
+base.0=D\:\\Nuthara_N_R\\UOM\\Academic\\Sem3\\CS3043 - Database Systems\\DatabaseMiniProject\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
