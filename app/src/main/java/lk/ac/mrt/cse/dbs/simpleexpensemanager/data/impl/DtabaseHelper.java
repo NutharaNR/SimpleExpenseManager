@@ -13,8 +13,8 @@ public class DtabaseHelper extends SQLiteOpenHelper {
     private static final int version = 1;
     private final Context context;
     public DtabaseHelper(@Nullable Context context) {
-        super(context,database_name , null, version);
-        this.context= context;
+        super(context, database_name, null, version);
+        this.context = context;
     }
 
     @Override
